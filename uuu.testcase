@@ -1,0 +1,1 @@
+[{"id":"414e1e27-349d-e367-c640-a6ef9e045e31","parentId":"","request":{"text":"hi"},"response":"[{\"text\":\"hi Anna\",\"rLoc\":{\"file\":\"HelloWordcopy11_3\",\"line\":3},\"reqId\":\"1610398429615/1\",\"success\":true}]","meta":"{\"pLoc\":{\"file\":\"HelloWordcopy11_3\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
